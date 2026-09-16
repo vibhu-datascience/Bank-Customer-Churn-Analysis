@@ -78,6 +78,12 @@ These findings represent associations in the available dataset and should not be
 
 ## Power BI Dashboard
 
+### Dashboard Preview
+
+![Page 1 - Executive Churn Overview](page1.png)
+
+![Page 2 - Customer Risk Segmentation](page2.png)
+
 The Power BI dashboard contains two pages:
 
 ### Page 1 — Executive Churn Overview
