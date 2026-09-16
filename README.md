@@ -80,9 +80,9 @@ These findings represent associations in the available dataset and should not be
 
 ### Dashboard Preview
 
-![Page 1 - Executive Churn Overview](page1.png)
+![Page 1 - Executive Churn Overview](page1.PNG)
 
-![Page 2 - Customer Risk Segmentation](page2.png)
+![Page 2 - Customer Risk Segmentation](page2.PNG)
 
 The Power BI dashboard contains two pages:
 
